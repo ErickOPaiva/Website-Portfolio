@@ -1,0 +1,1 @@
+Olá esse projeto simples foi apenas para desenvolver minhas habilidades com front-end e python com javascript, obrigado :)
